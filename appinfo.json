@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "thaoh@hotmail.com",
+    "enableMultiJS": false,
+    "longName": "Time",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Time",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "4122d65f-ead5-427c-beec-9e30a95bcd11",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
